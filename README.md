@@ -1,4 +1,5 @@
 # latihan-Branch
 
-github sangat asyik
+Ini adalah repository untuk latihan membuat branch baru
+di GitHub.
 
