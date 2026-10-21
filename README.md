@@ -1,4 +1,4 @@
 # Ini adalah repository untuk latihan membuat branch baru di GitHub.
 
-github sangat asyik
+Belajar github di Dicoding sangat asyik
 
